@@ -4,7 +4,7 @@ import TourDrawer from './drawer';
 
 export default function AppNav () {
     
-    const verified = false 
+    const verified = true 
 
     return (
         <NavigationContainer>
